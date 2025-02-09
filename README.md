@@ -1,6 +1,6 @@
 ![190601774-db1cbc4d-0daa-4853-a890-ebc6c15895ab](https://github.com/user-attachments/assets/a79332d9-d4c0-4c53-abf8-717a747c75f3)
 
-𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝘃𝗶𝗱𝗲𝗼 𝗹𝗶𝗻𝗸: https://youtu.be/PzFYNoxCslc?si=yyvglaSOM-LVHIQj
+𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝘃𝗶𝗱𝗲𝗼 𝗹𝗶𝗻𝗸: https://youtu.be/o3oRcNhBJQ8
 
 The virtual experience programme is provided by Tata iQ or Tata Insights and Quants. I discover how passionate, multidisciplinary experts utilise data visualisation technologies like Tableau and Power BI to take on some of the most difficult business problems and uncover fascinating insights buried in the mountains of produced data.
 
